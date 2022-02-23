@@ -102,7 +102,7 @@ body
 }
 .bg-color_1
 {
-    background-color: lightgray;
+    background-color: rgb(247, 231, 231);
 }
 .bg-color_2
 {
@@ -110,7 +110,7 @@ body
 }
 .bg-color_3
 {
-    background-color: lightsteelblue;
+    background-color: rgb(216, 226, 240);
 }
 .one-third img
 {
